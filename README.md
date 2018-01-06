@@ -1,1 +1,2 @@
-Smile Detection using python and fetch_olivetti_faces
+Smile Detection using python and fetch_olivetti_faces lib
+
