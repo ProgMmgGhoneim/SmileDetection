@@ -1,1 +1,1 @@
-# find_s
+Smile Detection using python and fetch_olivetti_faces
